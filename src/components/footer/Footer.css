@@ -1,0 +1,35 @@
+.footer {
+	margin-top: 60px;
+	background: rgb(151, 149, 149);
+}
+.footer_content {
+	text-align: center;
+	padding: 60px 120px;
+	margin: auto 0;
+	align-items: center;
+	justify-content: center;
+}
+
+.footer_content a {
+	display: block;
+	text-decoration: none;
+	color: black;
+	font-size: 18px;
+	line-height: 44px;
+}
+.footer_content a i {
+	color: aqua;
+	font-size: 30px;
+	padding: 5px;
+}
+.footer p {
+	display: flex;
+	background-color: rgb(107, 100, 100);
+	text-align: center;
+	padding: 0 120px;
+	height: 130px;
+	justify-content: center;
+	margin: auto 0;
+	color: rgb(164, 201, 155);
+	align-items: center;
+}

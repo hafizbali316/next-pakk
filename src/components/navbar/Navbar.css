@@ -1,0 +1,13 @@
+/* .navbar {
+	height: 120px;
+} */
+.nav_items {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.nav_items a {
+	margin-left: 30px;
+	color: #42a4f5;
+	text-decoration: none;
+}

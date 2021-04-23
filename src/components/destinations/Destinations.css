@@ -1,0 +1,40 @@
+.container {
+	padding: 20px 0;
+}
+
+.container h4 {
+	padding-bottom: 20px;
+}
+
+.destination_col {
+	margin: 2px auto;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.destination_card {
+	display: inline-block;
+}
+.destination_card span {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.destinationBtn {
+	margin-top: 2px;
+	display: flex;
+	color: whitesmoke;
+	font-weight: bolder;
+	font-size: 12px;
+	background-color: rgb(252, 70, 70);
+	border-radius: 5px;
+	outline: none;
+	border: none;
+	height: 24px;
+	align-items: center;
+	word-spacing: 1.5px;
+}
